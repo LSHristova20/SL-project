@@ -12,8 +12,8 @@
    
 ## ⚙ Installation
 ```
-You can download the application from [github](https://github.com/LRGeorgiev/ELLS-Physics-project.git) 
-by pressing the green ,,Code" button and than press "Download ZIP".
+You can download the application from github by pressing 
+the green ,,Code" button and than press "Download ZIP".
  ```
  
 ## Future updates
