@@ -7,7 +7,7 @@
 * **Lorena Hristova** - *Scrum trainer* 
 * **Svetoslav Stoilov** - *Back-end developer* 
 * **Lorena Hristova** - *Back-end developer* 
-* **Svetoslav Stoilov** - *QA documentation* 
+* **Lorena Hristova** - *QA documentation* 
 
    
 ## ⚙ Installation
