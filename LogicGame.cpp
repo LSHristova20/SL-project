@@ -57,10 +57,11 @@ int main()
 		break;
 			
 		case 4:
-			// The exit of the program
-			cout << "End of Program.\n";
-			calcOn = false;
-			break;
+		// The exit of the program
+		cout << "End of Program.\n";
+		calcOn = false;
+		
+		break;
 			
 		// if you write a number above 4 it will show "Not a Valid Choice." and "Choose again."
 		default:
