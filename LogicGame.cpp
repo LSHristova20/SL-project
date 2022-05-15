@@ -39,15 +39,15 @@ int main()
 		cout << "Lorena Hristova - QA engineer\n";
         cout << "---------------------------------------------------------- \n";
 			
-			break;
+		break;
 			
 		case 2:
-			// This is the guide for the application
-      cout << endl;
-			cout << "To play the logic game you just have to...\n";
-      cout << endl;
+		// This is the guide for the application
+        cout << endl;
+		cout << "To play the logic game you just have to...\n";
+        cout << endl;
 		
-			break;
+		break;
 			
 		case 3:
       cout << endl;
