@@ -15,6 +15,7 @@ int main()
 	
 	// The menu
 	while (calcOn != false) {
+		
 		cout << "*******************************\n";
 		cout << " 1 - Our Team.\n";
 		cout << " 2 - Guide.\n";
@@ -70,10 +71,9 @@ int main()
 			cin >> choice;
 			
 			break;
-		
 		}
 		
-		}
+	}
 	//The end of the program
 	return 0;
 }
