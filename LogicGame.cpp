@@ -65,10 +65,12 @@ int main()
 			
 		// if you write a number above 4 it will show "Not a Valid Choice." and "Choose again."
 		default:
-			cout << "Not a Valid Choice. \n";
-			cout << "Choose again.\n";
-			cin >> choice;
-			break;
+		cout << "Not a Valid Choice. \n";
+		cout << "Choose again.\n";
+		cin >> choice;
+		
+		break;
+		
 		}
 		
 		}
