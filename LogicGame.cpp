@@ -54,3 +54,9 @@ int main()
 			cout << "To be continued...\n";
       cout << endl;
 			break;
+			
+		case 4:
+			// The exit of the program
+			cout << "End of Program.\n";
+			calcOn = false;
+			break;
