@@ -40,3 +40,11 @@ int main()
       cout << "---------------------------------------------------------- \n";
 			
 			break;
+			
+		case 2:
+			// This is the guide for the application
+      cout << endl;
+			cout << "To play the logic game you just have to...\n";
+      cout << endl;
+		
+			break;
