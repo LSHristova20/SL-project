@@ -11,7 +11,7 @@ int main()
 	
 	// The title
 	cout << "===================================================== \n";
-	cout << " \t\tLogic game project\t \n ";
+	cout << " \t\tLOGIC GAME PROJECT\t \n ";
 	cout << "===================================================== \n";
 	// The menu
 	while (log != false) {
