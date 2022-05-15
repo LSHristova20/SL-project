@@ -72,7 +72,6 @@ int main()
 			
 			break;
 		}
-		
 	}
 	//The end of the program
 	return 0;
