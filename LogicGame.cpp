@@ -27,49 +27,49 @@ int main()
 		
 		switch (choice)
 		{
-		case 1:
-			// More about our team
-        cout << "---------------------------------------------------------- \n";
-		cout << "Our team:\n";
-        cout << "---------------------------------------------------------- \n";
-		cout << "Lorena Hristova - Leader and Scrum trainer\n";
-        cout << "---------------------------------------------------------- \n";
-		cout << "Lorena Hristova and Svetoslav Stoilov - Back end Developers\n";
-        cout << "---------------------------------------------------------- \n";
-		cout << "Lorena Hristova - QA engineer\n";
-        cout << "---------------------------------------------------------- \n";
+			case 1:
+				// More about our team
+			cout << "---------------------------------------------------------- \n";
+			cout << "Our team:\n";
+			cout << "---------------------------------------------------------- \n";
+			cout << "Lorena Hristova - Leader and Scrum trainer\n";
+			cout << "---------------------------------------------------------- \n";
+			cout << "Lorena Hristova and Svetoslav Stoilov - Back end Developers\n";
+			cout << "---------------------------------------------------------- \n";
+			cout << "Lorena Hristova - QA engineer\n";
+			cout << "---------------------------------------------------------- \n";
+				
+			break;
+				
+			case 2:
+			// This is the guide for the application
+			cout << endl;
+			cout << "To play the logic game you just have to...\n";
+			cout << endl;
 			
-		break;
+			break;
+				
+			case 3:
+			cout << endl;
+			cout << "To be continued...\n";
+			cout << endl;
+				
+			break;
+				
+			case 4:
+			// The exit of the program
+			cout << "End of Program.\n";
+			calcOn = false;
 			
-		case 2:
-		// This is the guide for the application
-        cout << endl;
-		cout << "To play the logic game you just have to...\n";
-        cout << endl;
-		
-		break;
+			break;
+				
+			// if you write a number above 4 it will show "Not a Valid Choice." and "Choose again."
+			default:
+			cout << "Not a Valid Choice. \n";
+			cout << "Choose again.\n";
+			cin >> choice;
 			
-		case 3:
-        cout << endl;
-		cout << "To be continued...\n";
-        cout << endl;
-			
-		break;
-			
-		case 4:
-		// The exit of the program
-		cout << "End of Program.\n";
-		calcOn = false;
-		
-		break;
-			
-		// if you write a number above 4 it will show "Not a Valid Choice." and "Choose again."
-		default:
-		cout << "Not a Valid Choice. \n";
-		cout << "Choose again.\n";
-		cin >> choice;
-		
-		break;
+			break;
 		
 		}
 		
