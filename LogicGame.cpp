@@ -50,10 +50,11 @@ int main()
 		break;
 			
 		case 3:
-      cout << endl;
-			cout << "To be continued...\n";
-      cout << endl;
-			break;
+        cout << endl;
+		cout << "To be continued...\n";
+        cout << endl;
+			
+		break;
 			
 		case 4:
 			// The exit of the program
