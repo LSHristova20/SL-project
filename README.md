@@ -18,7 +18,7 @@ the green ,,Code" button and than press "Download ZIP".
  
 ## Future updates
 
--in the future we will add more options so that the players enjoy the game more
+-In the future we will add more options so that the players enjoy the game more
 
 ## Thank you for using our app
 If you support and like our project, you can always share it with people on social media.
