@@ -60,3 +60,11 @@ int main()
 			cout << "End of Program.\n";
 			calcOn = false;
 			break;
+			
+		// if you write a number above 4 it will show "Not a Valid Choice." and "Choose again."
+		default:
+			cout << "Not a Valid Choice. \n";
+			cout << "Choose again.\n";
+			cin >> choice;
+			break;
+		}
